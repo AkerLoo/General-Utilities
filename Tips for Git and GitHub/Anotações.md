@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-#### Para criar uma chave SSH publica, siga os seguintes passos:
+### Para criar uma chave SSH publica, siga os seguintes passos:
 
  **Obs:** Vão ser geradas duas chaves uma .pub (publica) e outra privada.
 
