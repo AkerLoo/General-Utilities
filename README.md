@@ -1,4 +1,3 @@
-# All DIO Content in one place
-Repositorio criado para Anotações e Ultilidades.
-
+# All DIO Content in One Place
+Repositório criado para Anotações e Utilidades.
 
