@@ -26,7 +26,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 **Passo 3** - Aperte enter e depois coloque sua senha.
 
-**Passo 4** - Ir verificar o caminho onde foi instalado a chave usando [`Cd /.../.../.../`] e depois listar usando  [`ls`]
+**Passo 4** - Ir verificar o caminho onde foi instalado a chave usando `Cd /.../.../.../` e depois listar usando  `ls`
 
 **Passo 5** - Para ver o conteúdo dentro do arquivo criado (SSH criptografado) execute o seguinte comando:
 
